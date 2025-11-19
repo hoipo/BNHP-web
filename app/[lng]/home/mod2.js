@@ -74,29 +74,6 @@ export default function Mod2() {
               </div>
             </div>
             <div className="text-[12px] text-white opacity-[0.4]">
-              <div className="flex items-center">
-                <svg
-                  className="max-qw:px-3"
-                  width="112"
-                  height="1"
-                  viewBox="0 0 112 1"
-                  fill="none"
-                >
-                  <path d="M0 0.5H112" stroke="#464646" />
-                </svg>
-                <span className="mx-[10px] whitespace-nowrap">
-                  <HyperText>Token Allocation</HyperText>
-                </span>
-                <svg
-                  className="max-qw:px-3"
-                  width="112"
-                  height="1"
-                  viewBox="0 0 112 1"
-                  fill="none"
-                >
-                  <path d="M0 0.5H112" stroke="#464646" />
-                </svg>
-              </div>
               <div className="mt-2 leading-[16px] overflow-hidden max-qw:px-[13px]">
                 <HyperText>
                   <section>
