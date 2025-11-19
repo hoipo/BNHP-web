@@ -19,12 +19,6 @@ export default function Mod2() {
             <div className="font-normal text-[36px] text-[#fff]">
               <HyperText>BNHPAI Token</HyperText>
             </div>
-            {/* <div className='font-normal text-[36px] text-[#fff]'>BNHPAI Token</div>  */}
-            <div className="mt-1 text-[14px] text-[#fff] opacity-[0.4] text-center">
-              <HyperText>
-                Hold and support BNHPAI will be your best investment.
-              </HyperText>
-            </div>
             {/* <div className='mt-1 text-[14px] text-[#fff] opacity-[0.4]'>Hold&nbsp;&nbsp;$BNHP， Snipe&nbsp;&nbsp;the&nbsp;&nbsp;Moon ! "</div> */}
             <div className="my-6 max-w-[540px] w-full px-2 h-[80px] flex items-center justify-center relative max-qw:h-[64px] max-qw:px-3">
               <svg
