@@ -17,7 +17,13 @@ export default function Mod2() {
           <Pagination className="!absolute top-0" page="01" title="TOKEN" />
           <div className="w-full h-full flex flex-col items-center justify-center max-qw:px-5 max-qw:py-[48px] max-qw:mt-6">
             <div className="font-normal text-[36px] text-[#fff]">
-              <HyperText>BNHPAI Token</HyperText>
+              <HyperText>BNHP Token</HyperText>
+            </div>
+            {/* <div className='font-normal text-[36px] text-[#fff]'>BNHPAI Token</div>  */}
+            <div className="mt-1 text-[14px] text-[#fff] opacity-[0.4] text-center">
+              <HyperText>
+                Hold and support BNHPAI will be your best investment.
+              </HyperText>
             </div>
             {/* <div className='mt-1 text-[14px] text-[#fff] opacity-[0.4]'>Hold&nbsp;&nbsp;$BNHP， Snipe&nbsp;&nbsp;the&nbsp;&nbsp;Moon ! "</div> */}
             <div className="my-6 max-w-[540px] w-full px-2 h-[80px] flex items-center justify-center relative max-qw:h-[64px] max-qw:px-3">
